@@ -32,10 +32,13 @@
 - npm or yarn
 
 🙌 Credits
+
 Icons from Lucide
+
 Inspired by top e-commerce UI patterns
 
 📄 License
+
 MIT License © 2025 Soumya Sourav Kuanr
 
 

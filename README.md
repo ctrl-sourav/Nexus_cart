@@ -31,18 +31,13 @@
 - Node.js ≥ 16
 - npm or yarn
 
-### Setup
-
-```bash
-git clone https://github.com/yourusername/nexus-cart.git
-cd nexus-cart
-npm install
-npm run dev
-
-
 🙌 Credits
 Icons from Lucide
 Inspired by top e-commerce UI patterns
 
 📄 License
 MIT License © 2025 Soumya Sourav Kuanr
+
+
+
+
